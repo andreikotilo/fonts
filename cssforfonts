@@ -1,3 +1,4 @@
+<style>
 @font-face {
             font-family: 'a_futuraortoregular';
          src: url('https://github.com/andreikotilo/fonts/afuturaorto-webfont.woff2') format('woff2'), url('https://github.com/andreikotilo/fonts/afuturaorto-webfont.woff') format('woff');
@@ -5,3 +6,4 @@
             font-weight: normal;
             font-style: normal;
         }
+</style>
